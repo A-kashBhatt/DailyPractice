@@ -1,2 +1,2 @@
 # DailyPractice
-solving five problems daily
+solving five problems of dsa daily
